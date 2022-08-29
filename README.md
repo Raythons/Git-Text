@@ -1,3 +1,5 @@
 # Git-Text
 
-##Testing the Git
+Testing the Git
+
+## project rules
